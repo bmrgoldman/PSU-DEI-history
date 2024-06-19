@@ -14,4 +14,4 @@ credits: true
 
 ## About this Website
 
-This website was created by the Penn State University Archives to efficiently share documents from the institutions's history that speak to decades-long struggle for greater diversity, equity and inclusion at Penn State. 
+This website was created by the Penn State University Archives to efficiently share documents from the institutions's history that speak to the decades-long struggle for greater diversity, equity and inclusion at Penn State. 
